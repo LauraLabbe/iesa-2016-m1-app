@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1C3E2FAA1D196BB900261EC6 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3E2FA91D196BB900261EC6 /* Book.swift */; };
+		1C3E2FAC1D197A2500261EC6 /* Bookstore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3E2FAB1D197A2500261EC6 /* Bookstore.swift */; };
 		1C6405AB1D194B5D00608CCF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6405AA1D194B5D00608CCF /* AppDelegate.swift */; };
 		1C6405AD1D194B5D00608CCF /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6405AC1D194B5D00608CCF /* MasterViewController.swift */; };
 		1C6405AF1D194B5D00608CCF /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6405AE1D194B5D00608CCF /* DetailViewController.swift */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		1C3E2FA91D196BB900261EC6 /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Book.swift; path = ../Book.swift; sourceTree = "<group>"; };
+		1C3E2FAB1D197A2500261EC6 /* Bookstore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bookstore.swift; sourceTree = "<group>"; };
 		1C6405A71D194B5D00608CCF /* myBooks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myBooks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C6405AA1D194B5D00608CCF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1C6405AC1D194B5D00608CCF /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 		1C64059E1D194B5D00608CCF = {
 			isa = PBXGroup;
 			children = (
+				1C3E2FAB1D197A2500261EC6 /* Bookstore.swift */,
 				1C6405A91D194B5D00608CCF /* myBooks */,
 				1C6405C01D194B5D00608CCF /* myBooksTests */,
 				1C6405CB1D194B5D00608CCF /* myBooksUITests */,
@@ -265,6 +268,7 @@
 				1C3E2FAA1D196BB900261EC6 /* Book.swift in Sources */,
 				1C6405AF1D194B5D00608CCF /* DetailViewController.swift in Sources */,
 				1C6405AD1D194B5D00608CCF /* MasterViewController.swift in Sources */,
+				1C3E2FAC1D197A2500261EC6 /* Bookstore.swift in Sources */,
 				1C6405AB1D194B5D00608CCF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
